@@ -1,6 +1,6 @@
 ========================================================================
 
-**Strong** 1st Meeting - 9/8/22
+**1st Meeting - 9/8/22**
 
 Names of Attendants
 * Luke Pan
@@ -20,7 +20,7 @@ Mentioned it during next meeting and helped figure out how we should contact the
 
 ========================================================================
 
-**Strong** 2nd Meeting - 9/14/22
+**2nd Meeting - 9/14/22**
 
 Names of Attendants
 * Luke Pan

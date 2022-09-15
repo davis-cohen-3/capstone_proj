@@ -1,0 +1,1 @@
+This directory is for files related to attendance and team timesheets. We can also hold team meeting notes here.

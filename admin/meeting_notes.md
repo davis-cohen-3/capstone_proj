@@ -95,3 +95,21 @@ About Us
 Davis and Bradely has Data Science Interest.
 Aiden Pierce and Luke are interested in VR and Graphics.
 Carol backend utility.
+
+========================================================================
+
+**3rd Meeting - 9/21/22**
+
+Names of Attendants
+* Luke Pan
+* Davis Robert Cohen
+* Aiden Colley
+* Bradley Sides
+* Pierce Angeloff
+* Carol Chang
+
+First meeting with sponsor will be **9/30/22** at 4pm.
+
+Bradley: Reach out to sponsor and establish if Fridays will be a good meeting time in general. Bradley may not be able to attend.
+
+Carol: Create google drive for team updates for TA. Drive link is: https://drive.google.com/drive/folders/10V3ERBcDFKFtwz7XXHXB_JaEyYnuYUwf?usp=sharing

@@ -109,5 +109,7 @@ Names of Attendants
 * Carol Chang
 
 First meeting with sponsor will be **9/30/22** at 4pm.
+
 Bradley: Reach out to sponsor and establish if Fridays will be a good meeting time in general. Bradley may not be able to attend.
-Carol: Create google drive for team updates for TA.
+
+Carol: Create google drive for team updates for TA. Drive link is: https://drive.google.com/drive/folders/10V3ERBcDFKFtwz7XXHXB_JaEyYnuYUwf?usp=sharing

@@ -130,12 +130,12 @@ Updates:
 * Carol had set up the drive and sent a share link to our TA.
 
 First meeting with sponsor will be **9/30/22** at 4pm and preperations need to be made.
-Davis: Introduction for Charter
-Luke: Objective and Scope for Charter
-Aiden: Project Approach for Charter
-Bradley: Project Plan for Charter
-Pierce: Status Report
-Carol: Sponsor Meeting/Document Prep
+* Davis: Introduction for Charter
+* Luke: Objective and Scope for Charter
+* Aiden: Project Approach for Charter
+* Bradley: Project Plan for Charter
+* Pierce: Status Report
+* Carol: Sponsor Meeting Updates/Document Prep for charter
 
 Question on Friday:
 * Deliverables on Timeline

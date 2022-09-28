@@ -113,3 +113,35 @@ First meeting with sponsor will be **9/30/22** at 4pm.
 Bradley: Reach out to sponsor and establish if Fridays will be a good meeting time in general. Bradley may not be able to attend.
 
 Carol: Create google drive for team updates for TA. Drive link is: https://drive.google.com/drive/folders/10V3ERBcDFKFtwz7XXHXB_JaEyYnuYUwf?usp=sharing
+
+========================================================================
+
+**3rd Meeting - 9/28/22**
+
+Names of Attendants
+* Luke Pan
+* Aiden Colley
+* Pierce Angeloff
+* Davis Robert Cohen
+* Carol Chang
+
+Updates:
+* Bradley had sent the email and it the date mentioned should work and a google calendar would be set up for regular meetings.
+* Carol had set up the drive and sent a share link to our TA.
+
+First meeting with sponsor will be **9/30/22** at 4pm and preperations need to be made.
+Davis: Introduction for Charter
+Luke: Objective and Scope for Charter
+Aiden: Project Approach for Charter
+Bradley: Project Plan for Charter
+Pierce: Status Report
+Carol: Sponsor Meeting/Document Prep
+
+Question on Friday:
+* Deliverables on Timeline
+* Access to Original Project
+* Out of Scope and In Scope
+* Project Changes
+
+Do not directly mention that the project can be built by end of fall semester, but mention that the class finishes in spring.
+

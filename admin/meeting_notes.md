@@ -116,7 +116,7 @@ Carol: Create google drive for team updates for TA. Drive link is: https://drive
 
 ========================================================================
 
-**3rd Meeting - 9/28/22**
+**4th Meeting - 9/28/22**
 
 Names of Attendants
 * Luke Pan
@@ -124,6 +124,8 @@ Names of Attendants
 * Pierce Angeloff
 * Davis Robert Cohen
 * Carol Chang
+
+Bradley was abscent due to family emergency.
 
 Updates:
 * Bradley had sent the email and it the date mentioned should work and a google calendar would be set up for regular meetings.
@@ -145,3 +147,52 @@ Question on Friday:
 
 Do not directly mention that the project can be built by end of fall semester, but mention that the class finishes in spring.
 
+========================================================================
+
+**1st Sponsor Meeting - 9/30/22**
+
+Names of Attendants
+* Luke Pan
+* Aiden Colley
+* Davis Robert Cohen
+* Carol Chang
+* Pierce Angeloff
+* Bradley Sides
+
+There are a few more doctors involved in this project.
+Tracheostomy is a plastic tube placed in the trachea. Bypass obstruction or provide breathing assistance to replace a tube from mouth. a month or so there is a risk that the breathing hole could close. So we need to have this training program so people know what to do should something go wrong. (primary physicians within ICU, nurses, respitory therapist).
+
+The last group has outlined the conceptual design for it, CPR training, but it is very clunky!
+Needs to be optimized. Want to assure minimium level of quality suitable for modern distribution. 
+General Things that needs to improved:
+* Needs to be more realistic. (not very lifelike)
+* Approach method to the situation. (logic of choices)
+
+Minimium Deliverable:
+* More lifelike computer graphics for this project.
+* Refine the graphics and logic of the project.
+
+Maximium:
+* Try for different clinical scenarios.
+
+Timeline:
+* End of the first semester try to improve the graphics of visuals of the same scenario of last team. Next semester work on more scenarios for established trach.
+* 1 case on the first semester.
+* 3 cases for the second semester.
+
+Charter Updates:
+* Keep an updates to charter in the update document.
+* Informed of the charter, to know basis.
+* Discussions shape charter.
+
+Meetings:
+* Monthly AND when there is a major achievement.
+* Talke to Lupe she will be the coordination for meetings.
+* Next meeting by last week october.
+
+By Next Meeting:
+* Try to look at the original code and try to figure out what to do next.
+* Two weeks to kick around and try to figure out where we can improve upon it.
+* Carol will coordinate the next meeting. 4PM, 5-5:30PM will be a better time.
+
+Code will be sent soon!

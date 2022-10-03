@@ -196,3 +196,34 @@ By Next Meeting:
 * Carol will coordinate the next meeting. 4PM, 5-5:30PM will be a better time.
 
 Code will be sent soon!
+
+========================================================================
+
+**2nd Mentor Meeting - 10/3/22**
+
+Names of Attendants
+* Luke Pan
+* Davis Robert Cohen
+* Carol Chang
+* Pierce Angeloff
+
+NOT Present
+* Aiden Colley
+* Bradley Sides
+
+Recap over last weeks events.
+Need to give mentor timesheet access.
+	Timesheets need to be written in.
+Still need to understand last teams codebase before we can get concrete plans about now.
+
+Individual Updates
+* Carol: Management of team and client set up. Meeting times is going to be challenging. Needs to aim for flexibility and options. Maybe find training videos/courses.
+* Davis: Maintaining communication and client work for code. This month is going to be really heckin busy.Lack of options about machine learning, may be an option if we can brew that into the design.
+* Luke: Charter and Meetings
+* Bradley: Charter and Meeting with client. Wants to plan everything out for code as it comes out.
+* Pierce: Complete Status Report and Meetings. 
+
+
+Maybe reach out to other doctors to get more info.
+Reach out to last team for more info about how the project worked for them.
+Everyone should get their timesheets updated.

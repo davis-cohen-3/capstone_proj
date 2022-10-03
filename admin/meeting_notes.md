@@ -217,7 +217,7 @@ Need to give mentor timesheet access.
 Still need to understand last teams codebase before we can get concrete plans about now.
 
 Individual Updates
-* Carol: Management of team and client set up. Meeting times is going to be challenging. Needs to aim for flexibility and options. Maybe find training videos/courses.
+* Carol: Management of team and client set up. Meeting times is going to be challenging. Needs to aim for flexibility and options. Maybe find training videos/courses for animation and unity stuff. Reach out to more of the doctors and go over the flowchart and figure out how it works. Then meet with team and get intel to then ask more from the last team.
 * Davis: Maintaining communication and client work for code. This month is going to be really heckin busy.Lack of options about machine learning, may be an option if we can brew that into the design.
 * Luke: Charter and Meetings
 * Bradley: Charter and Meeting with client. Wants to plan everything out for code as it comes out.

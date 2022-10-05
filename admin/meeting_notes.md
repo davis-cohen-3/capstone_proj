@@ -227,3 +227,29 @@ Individual Updates
 Maybe reach out to other doctors to get more info.
 Reach out to last team for more info about how the project worked for them.
 Everyone should get their timesheets updated.
+
+
+========================================================================
+
+**5th Meeting - 10/5/22**
+
+Names of Attendants
+* Aiden Colley
+* Bradley Sides
+* Luke Pan
+* Pierce Angeloff
+* Carol Chang
+
+Luke Pan: Set up Discord Roles for each group of leads.
+Bradley: Still Deciding on Role.
+Pierce: Status Reports
+Carol: Reach out Jodi and set up meeting for next week Friday 2pm for assets. Set up review meeting with last years team.
+
+By this Weekend have unity set up, and get the project running on it.
+
+Luke's Note on last years animation:
+They have a lot of good assets and application process.
+Wrong answer choices page is really ugly so improving that would be great.
+Document folder with some screenshots. Get a better grasp of use cases Cases.
+
+Bradley, Pierce, Luke, Aiden are interested in last years project team meeting.

@@ -241,8 +241,11 @@ Names of Attendants
 * Carol Chang
 
 Luke Pan: Set up Discord Roles for each group of leads.
+
 Bradley: Still Deciding on Role.
+
 Pierce: Status Reports
+
 Carol: Reach out Jodi and set up meeting for next week Friday 2pm for assets. Set up review meeting with last years team.
 
 By this Weekend have unity set up, and get the project running on it.

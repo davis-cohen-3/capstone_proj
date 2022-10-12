@@ -256,3 +256,18 @@ Wrong answer choices page is really ugly so improving that would be great.
 Document folder with some screenshots. Get a better grasp of use cases Cases.
 
 Bradley, Pierce, Luke, Aiden are interested in last years project team meeting.
+
+========================================================================
+
+**6th Meeting - 10/12/22**
+
+Names of Attendants
+* Luke Pan
+* Aiden Colley
+* Carol Chang
+* Pierce Angeloff
+* Bradley Sides
+
+Plan to meet with last years team at 3pm.
+Each team starts small fixes: for each team. Each change to project should be done through a pull request linked review by mentor.
+Carol: Look into getting Jira, maybe some other services.

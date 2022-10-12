@@ -268,6 +268,6 @@ Names of Attendants
 * Pierce Angeloff
 * Bradley Sides
 
-Plan to meet with last years team at 3pm.
+Plan to meet with last years team at 4pm.
 Each team starts small fixes: for each team. Each change to project should be done through a pull request linked review by mentor.
 Carol: Look into getting Jira, maybe some other services.

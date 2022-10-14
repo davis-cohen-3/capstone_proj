@@ -271,3 +271,41 @@ Names of Attendants
 Plan to meet with last years team at 4pm.
 Each team starts small fixes: for each team. Each change to project should be done through a pull request linked review by mentor.
 Carol: Look into getting Jira, maybe some other services.
+
+========================================================================
+
+**Last Year's Team Meeting - 10/14/22**
+
+Names of Attendants
+* Luke Pan
+* Aiden Colley
+* Pierce Angeloff
+* Jodi Slade
+
+Ways to improve things
+* Improve lighting
+* we want some sort of movement on the screen to make the scene more realistic.\\
+
+Jodi used maiya for modeling, and then Z-Brush for detailing, and used basic lighting, she is willing to help with lighting but will be able to help in any way she can. Though not her most familiar ground.\\
+
+How to request new assets, send a request of the assets and when you will need them by then we can try to build anything. Realistically will be requesting next year.
+
+========================================================================
+
+**Last Year's Team Meeting - 10/14/22**
+
+Names of Attendants
+* Carol Chang
+* Pierce Angeloff
+* Aiden Colley
+* Tobias Jacobson (Guest)
+* Davis Robert Cohen
+
+Last years notes:\\
+* Selected by the hospital and worked with Doctor Chan, narrowing down what he wanted and what they were capable of, wanted a fully VR simulator for the traechestomy and didn't have the time.
+* Click and drag simulator from there, Doctor Chan gaves us set scenarios to work with.
+* Miro board is two patients of different ages, with four scenarios divided into them. And there are two tube scenarios for each of them. Tube goes wrong or is correctly placed.
+* Tobias has a further outlined document for treatment process.
+* Patient color would change as scenario worsened, but oxygenation level and heart rate.
+* There were no real standards for connecting scenes, there was some skipping around.
+* The second loop is there to try both scenarios if they make a mistake or the patient wants input. and go back to the last part of the intervention.

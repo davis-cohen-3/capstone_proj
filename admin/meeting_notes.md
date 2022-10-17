@@ -322,11 +322,18 @@ Names of Attendants
 * Aiden Colley
 * Bradley Sides
 
-met with last years team and worked with animators, the meeting with last years team gave us more info of what we are missing. Klunky but it can be made work.\\
-Carol: Creating Asset updates tasks and start to figure out bugs that we can work on.\\
-Pierce: Reach out to Jodi for some new things to be updated and improve things, worked on status reports. Try tackling some small tasks. Texturing and maybe a grey screen.\\
-Davis: Attending last years meeting, poking at the code and trying to learn unity. Looking into adding sound to the game.\\
-Bradley: Get caught up with the system. Look into the loose ends going to work with Luke for UI updates.\\
-Aiden: Met with Jodi and Last Year's Team. Needs a Task. Fix the "Other" option.\\
-Luke: Looking into UI and menu updates, alignment of texts and ordering of the buttons, adding vertical layout to some of the menu options add more features and maybe a color scheme.\\
+met with last years team and worked with animators, the meeting with last years team gave us more info of what we are missing. Klunky but it can be made work.
+
+Carol: Creating Asset updates tasks and start to figure out bugs that we can work on.
+
+Pierce: Reach out to Jodi for some new things to be updated and improve things, worked on status reports. Try tackling some small tasks. Texturing and maybe a grey screen.
+
+Davis: Attending last years meeting, poking at the code and trying to learn unity. Looking into adding sound to the game.
+
+Bradley: Get caught up with the system. Look into the loose ends going to work with Luke for UI updates.
+
+Aiden: Met with Jodi and Last Year's Team. Needs a Task. Fix the "Other" option.
+
+Luke: Looking into UI and menu updates, alignment of texts and ordering of the buttons, adding vertical layout to some of the menu options add more features and maybe a color scheme.
+
 We should look over the last few slides and minimize digging just look any memories about slides and we should be fine.

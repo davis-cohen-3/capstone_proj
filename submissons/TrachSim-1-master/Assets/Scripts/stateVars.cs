@@ -8,6 +8,7 @@ public class stateVars : MonoBehaviour
     public bool isENT = false;
     public bool isNurse = false;
     public bool isPT = false;
+    public bool isOther = false;
     public int patAge;
     // Start is called before the first frame update
     void Start()

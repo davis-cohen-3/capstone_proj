@@ -56,6 +56,12 @@ public class StartModule : MonoBehaviour
             Debug.Log("PT selected");
             stateVars.GetComponent<stateVars>().isPT = true;
         }
+        if (pos == "Other")
+        {
+            Debug.Log("Other selected");
+            stateVars.GetComponent<stateVars>().isOther = true;
+        }
+
         PosSelection.active = false;
         PSS.active = true;
     }

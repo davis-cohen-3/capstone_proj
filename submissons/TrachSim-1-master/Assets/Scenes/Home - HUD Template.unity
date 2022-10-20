@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657838, g: 0.49641234, b: 0.57481676, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2115,6 +2115,7 @@ MonoBehaviour:
   isENT: 0
   isNurse: 0
   isPT: 0
+  isOther: 0
   patAge: 0
 --- !u!4 &1300612431
 Transform:
@@ -2212,7 +2213,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1333503899}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1261036688}
+        m_TargetAssemblyTypeName: StartModule, Assembly-CSharp
+        m_MethodName: selectRole
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Other
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1333503899
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -337,3 +337,27 @@ Aiden: Met with Jodi and Last Year's Team. Needs a Task. Fix the "Other" option.
 Luke: Looking into UI and menu updates, alignment of texts and ordering of the buttons, adding vertical layout to some of the menu options add more features and maybe a color scheme.
 
 We should look over the last few slides and minimize digging just look any memories about slides and we should be fine.
+
+========================================================================
+
+**7th Meeting - 10/19/22**
+
+Names of Attendants
+* Luke Pan
+* Pierce Angeloff
+* Carol Chang
+* Aiden Colley
+* Bradley Sides
+
+* Davis Robert Cohen
+
+Aiden's Task has not been completed but he will be trying to do so soon.
+
+Luke's Task has been working on the menu and has some ideas how things could be improved.
+
+Bradley's Task has not started yet but has been working on it. Thinking about an escape key. The Dr. should be asked about it. maybe a restart button and exit button.
+
+Pierce's Task has figured out how to mess with textures and lighting, looking for implements.
+
+
+Noted Patient 

@@ -349,8 +349,6 @@ Names of Attendants
 * Aiden Colley
 * Bradley Sides
 
-* Davis Robert Cohen
-
 Aiden's Task has not been completed but he will be trying to do so soon.
 
 Luke's Task has been working on the menu and has some ideas how things could be improved.
@@ -361,3 +359,29 @@ Pierce's Task has figured out how to mess with textures and lighting, looking fo
 
 
 Noted Patient 
+
+========================================================================
+
+**8th Meeting - 10/26/22**
+
+Names of Attendants
+* Luke Pan
+* Pierce Angeloff
+* Carol Chang
+* Aiden Colley
+* Bradley Sides
+* Davis Robert Cohen
+
+Luke Pan: Looking to add a back button.
+
+Pierce Angeloff: Has been sick and made a texture (screen next to the patient in the PICU scene) change and then added a heartbeat monitor to the scenes. Not actually in game just yet. Assets->Textures->Room
+
+Aiden: Fixed the other button so it is not longer a dead button, need to make the main menu more clean. Whiteboard sort of look to it with like a wipeanimations between each layout. $12 for office supplies. Maybe add animations to it. Each button over the text has a an onclick function it will run a feature out. Scripts can tell you what everything is.Use buttons to turn different game objects on and off with a true for false variable. Work on the functions of back end.
+
+Bradley: How to do an exit button to work through it. Work on the functions of back end.
+
+Davis: Looking to get some audio files for tomorrow. Adding to sound and varying speed.
+
+Davis, Bradley and Aiden work on a Figma to layout new UI, and talk about during next meeting.
+
+Luke and Pierce working 4 month old scene added through mapping.

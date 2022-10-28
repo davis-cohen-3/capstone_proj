@@ -385,3 +385,31 @@ Davis: Looking to get some audio files for tomorrow. Adding to sound and varying
 Davis, Bradley and Aiden work on a Figma to layout new UI, and talk about during next meeting.
 
 Luke and Pierce working 4 month old scene added through mapping.
+
+========================================================================
+
+**2nd Sponsor Meeting - 10/28/22**
+
+Names of Attendants
+* Luke Pan
+* Pierce Angeloff
+* Carol Chang
+* Aiden Colley
+* Bradley Sides
+* Davis Robert Cohen
+
+Started discussion of how things can be improved. Fix Moniters position. Patient View
+Pulse Oximitry and Heart Heart would be a good addition.
+As breathing would become more rapid, we oxygen lvls would drop the doctor can give paramters to what they must be. Camera is a bit skewed.
+Should add more realism to scenes and ekg pads over the patient and IV drip to the patient. Move mointor to left half of the screen and tilt it 
+
+Prioity is going to be fixing the scenes.
+
+Assets can be purchased with an expense report, 
+Interactive improvements, so that it can be a bit more realisitc.
+
+Pierce wanted us to talk about a restart simulation or back options. Try again and a restart button.
+Bradley asked if we can uses different packages.
+
+We should figure out reimbursement. Have an invoice for what things need to be improved.
+

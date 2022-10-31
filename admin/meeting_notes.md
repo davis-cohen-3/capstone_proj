@@ -376,7 +376,7 @@ Luke Pan: Looking to add a back button.
 
 Pierce Angeloff: Has been sick and made a texture (screen next to the patient in the PICU scene) change and then added a heartbeat monitor to the scenes. Not actually in game just yet. Assets->Textures->Room
 
-Aiden: Fixed the other button so it is not longer a dead button, need to make the main menu more clean. Whiteboard sort of look to it with like a wipeanimations between each layout. $12 for office supplies. Maybe add animations to it. Each button over the text has a an onclick function it will run a feature out. Scripts can tell you what everything is.Use buttons to turn different game objects on and off with a true for false variable. Work on the functions of back end.
+Aiden: Fixed the other button so it is no longer a dead button, need to make the main menu more clean. Whiteboard sort of look to it with like a wipeanimations between each layout. $12 for office supplies. Maybe add animations to it. Each button over the text has a an onclick function it will run a feature out. Scripts can tell you what everything is.Use buttons to turn different game objects on and off with a true for false variable. Work on the functions of back end.
 
 Bradley: How to do an exit button to work through it. Work on the functions of back end.
 
@@ -408,8 +408,47 @@ Prioity is going to be fixing the scenes.
 Assets can be purchased with an expense report, 
 Interactive improvements, so that it can be a bit more realisitc.
 
-Pierce wanted us to talk about a restart simulation or back options. Try again and a restart button.
+Pierce wanted us to talk about a restart simulation or back options. Try again and a restart button should be included.
 Bradley asked if we can uses different packages.
 
 We should figure out reimbursement. Have an invoice for what things need to be improved.
+
+========================================================================
+
+**3rd Mentor Meeting - 10/31/22**
+
+Names of Attendants
+* Luke Pan
+* Davis Robert Cohen
+* Pierce Angeloff
+* Carol Chang
+* Aiden Colley
+* Bradley Sides
+
+Completed demo for mentor.
+
+Bradley asked for getting funding for assets. Ask Allen for laptops and assets.
+Maybe there could be a dead screen or no end to a path.
+
+bug fixing is still underway. We should make a running doc of all the bugs.
+
+Need to get rid of the dead ends. and the loops.
+
+Pierce also added a texture bit.
+
+Davis is looking to add sound into scenes, as a place holder.
+
+Do a paired programming session to get people to learn, do a fun paired programming with Aiden.
+
+Luke used a clear of patient on dead scenes. Also fixed unaligned text.
+
+Check in on menu screen and sound.
+
+Luke wants to fix frame FOV.
+
+Davis wants to work on the home button and a menu page.
+
+Bradley new whiteboard for layout and design.
+
+Pierce wants to improve the screne layout and design and find new Jira board tasks.
 

@@ -452,3 +452,24 @@ Bradley new whiteboard for layout and design.
 
 Pierce wants to improve the screne layout and design and find new Jira board tasks.
 
+========================================================================
+
+**9th Team Meeting - 11/2/22**
+
+Names of Attendants
+* Luke Pan
+* Davis Robert Cohen
+* Pierce Angeloff
+* Carol Chang
+* Aiden Colley
+* Bradley Sides
+
+Aiden: Added an outline option to represent new circles for the whiteboard idea.On mouse over, highlight its first child and set it active. OnMouseExit is when it stops, and then ONMouseDown you go to the next section. NEW OBJECTS ARE ALREADY MADE WITH HITBOXES! Will continue to improve.
+
+Davis: Got a heartbeat sound, and how to add it into the game. Now trying to oscillate the sound and change the speed and sound. Should work with Carol to get new sand elements in.
+
+Bradley: Layout of the whiteboard layout, should work with Aiden to get stuff done. Also want to work on an escape menu option.
+
+Luke: Working on moniter object.
+
+Pierce: Working on the desplay content itself.

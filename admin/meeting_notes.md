@@ -473,3 +473,26 @@ Bradley: Layout of the whiteboard layout, should work with Aiden to get stuff do
 Luke: Working on moniter object.
 
 Pierce: Working on the desplay content itself.
+
+========================================================================
+
+**10th Team Meeting - 11/9/22**
+
+Names of Attendants
+* Luke Pan
+* Pierce Angeloff
+* Davis Robert Cohen
+* Aiden Colley
+* Carol Chang
+
+Aiden: Working with Bradley for the Whiteboard layout. So far the logic seems to be in place. WE HAVE A WHITEBOARD CIRCLE AND WE HAVE A CAMERA ANIMATION TO DRAW AWAY AND MOVE TO ANOTHER SCENE. Aiden added a spotlight feature.
+
+Bradley: has the whiteboard game object in place.
+
+Davis: Hasn't been able to get the ambient sound noise. Sound bites requested.
+
+Pierce: Playing with test environment for dynamic screen. Working with Text Mesh Map to add new texts and change values.
+
+Luke Pan: Messed around with Camera angles with no fish eye issue, the moniter screen was replaced for flat screen. Do we want to move the moniter back. Maybe a look back at the moniter option to like point an arrow key back at the moniter.
+
+Carol: Meeting Set on December 4th, 4pm. Going to email dr. chen for sound bits. Create proto bio sheet.

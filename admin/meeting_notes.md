@@ -473,3 +473,48 @@ Bradley: Layout of the whiteboard layout, should work with Aiden to get stuff do
 Luke: Working on moniter object.
 
 Pierce: Working on the desplay content itself.
+
+========================================================================
+
+**10th Team Meeting - 11/9/22**
+
+Names of Attendants
+* Luke Pan
+* Pierce Angeloff
+* Davis Robert Cohen
+* Aiden Colley
+* Carol Chang
+
+Aiden: Working with Bradley for the Whiteboard layout. So far the logic seems to be in place. WE HAVE A WHITEBOARD CIRCLE AND WE HAVE A CAMERA ANIMATION TO DRAW AWAY AND MOVE TO ANOTHER SCENE. Aiden added a spotlight feature.
+
+Bradley: has the whiteboard game object in place.
+
+Davis: Hasn't been able to get the ambient sound noise. Sound bites requested.
+
+Pierce: Playing with test environment for dynamic screen. Working with Text Mesh Map to add new texts and change values.
+
+Luke Pan: Messed around with Camera angles with no fish eye issue, the moniter screen was replaced for flat screen. Do we want to move the moniter back. Maybe a look back at the moniter option to like point an arrow key back at the moniter.
+
+Carol: Meeting Set on December 4th, 4pm. Going to email dr. chen for sound bits. Create proto bio sheet.
+
+
+========================================================================
+
+**4th Mentor Meeting - 11/14/22**
+
+Names of Attendants
+* Luke Pan
+* Davis Robert Cohen
+* Pierce Angeloff
+* Carol Chang
+* Aiden Colley
+
+Carol: Working on project video.
+Luke: Fixed Camera fish eyed issue, swapped moniter asset into a flat screen, add a view moniter button into scenes.
+Davis: Wants a back button and work on sound effects to the rest of the scene.
+Bradley: Wants to set up a home button/new UI. Home and Escape button should be implemented.
+Aiden: Working on the menu logic.
+Pierce: Working on moniter and displays. Finish screen implementation into the scene and change custom values.
+
+Need to figure out a merge meeting. Next meeting?
+Try to get everything done before the break.

@@ -518,3 +518,29 @@ Pierce: Working on moniter and displays. Finish screen implementation into the s
 
 Need to figure out a merge meeting. Next meeting?
 Try to get everything done before the break.
+
+========================================================================
+
+**11th Team Meeting - 11/16/22**
+
+Names of Attendants
+* Luke Pan
+* Davis Robert Cohen
+* Pierce Angeloff
+* Carol Chang
+* Aiden Colley
+* Bradley Sides
+
+Davis: Few more scenes will have sound added soon, should be pushed later tonight, or tomorrow. Ambient sound is present for now.
+
+Bradley: Working with the whiteboard idea, for moving around the whiteboard for the first scene. Aiden has been working on something close to that. Working on an escape or home button?
+
+Aiden: Once the whiteboard is set, try to use it as an option menu, and look at the whiteboard for an option menu. Did some merge problems. Worked on the animations and did some camera moving stuff. Mayhapies wall mount it for layout ideas?
+
+Pierce: Can get a gif load into a screen. and make a gif run on the screen, and then made a sprite map for everything.
+
+Luke: Created a see moniter button but still working on a go back to patient button.
+
+Monday do a dry run, 4pm to do a dry run.
+
+Screenshots for the demo section, figure out who says what and stuff.

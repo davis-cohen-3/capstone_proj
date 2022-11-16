@@ -4,11 +4,10 @@ using UnityEngine;
 
 public class WhiteboardButton : MonoBehaviour
 {
-
     // Start is called before the first frame update
     void Start()
     {
-         
+    
     }
 
     // Update is called once per frame
@@ -29,6 +28,7 @@ public class WhiteboardButton : MonoBehaviour
 
     private void OnMouseDown()
     {
-        print("Hello World");
+        Camera.main.GetComponent<MenuCamera>().Transition();
+        //print("Hello World");
     }
 }

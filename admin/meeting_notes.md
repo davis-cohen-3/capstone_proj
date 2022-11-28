@@ -544,3 +544,24 @@ Luke: Created a see moniter button but still working on a go back to patient but
 Monday do a dry run, 4pm to do a dry run.
 
 Screenshots for the demo section, figure out who says what and stuff.
+
+========================================================================
+
+**5th Mentor Meeting - 11/28/22**
+
+Names of Attendants
+* Luke Pan
+* Aiden Colley
+* Bradley Sides
+* Pierce Angeloff
+* Carol Chang
+
+Grading Updates needed for the requirements document and wanted teams to put more effort into the requirements document update.
+
+We got a 10/10 on the requirements document!
+
+Project Plan is underway. Will recieve notes on what to do for the video as well, and try to make it work.
+
+we need some sort of architecture slides. and talk about what exists and what we are working on.
+
+We need some sort of introduction to the document explaining what the document is. maybe add a Gant chart? And we need some sort of tracking document to explain how we are organizing everything. Project Plan should not be a repeat of the requirements document, Maybe a Gant chart over major changes. Mayhapies need a higher level when for everything might be needed. work with notion or some other software to make a new timeline for tasks. Talk about how the team is going to communicate.

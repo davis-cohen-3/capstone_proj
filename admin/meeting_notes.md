@@ -565,3 +565,29 @@ Project Plan is underway. Will recieve notes on what to do for the video as well
 we need some sort of architecture slides. and talk about what exists and what we are working on.
 
 We need some sort of introduction to the document explaining what the document is. maybe add a Gant chart? And we need some sort of tracking document to explain how we are organizing everything. Project Plan should not be a repeat of the requirements document, Maybe a Gant chart over major changes. Mayhapies need a higher level when for everything might be needed. work with notion or some other software to make a new timeline for tasks. Talk about how the team is going to communicate.
+
+========================================================================
+
+**12th Team Meeting - 11/30/22**
+
+Names of Attendants
+* Luke Pan
+* Davis Robert Cohen
+* Pierce Angeloff
+* Carol Chang
+* Aiden Colley
+* Bradley Sides
+
+Pierce: Managed to export screnes into a usable asset, need to add to scenes.
+
+Davis: Sound is in, just need to push it.
+
+Luke: Added a button that lets u look back at the patient after going to look at the screen and added it to another scene.
+
+Aiden: Animations for the main menu is still under development.
+
+Bradley: Font import for the whiteboard.
+
+Carol: Working on the documentation. And reached out to Jodi for scene things.
+
+completed team meeting.

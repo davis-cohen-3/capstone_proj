@@ -376,7 +376,7 @@ Luke Pan: Looking to add a back button.
 
 Pierce Angeloff: Has been sick and made a texture (screen next to the patient in the PICU scene) change and then added a heartbeat monitor to the scenes. Not actually in game just yet. Assets->Textures->Room
 
-Aiden: Fixed the other button so it is not longer a dead button, need to make the main menu more clean. Whiteboard sort of look to it with like a wipeanimations between each layout. $12 for office supplies. Maybe add animations to it. Each button over the text has a an onclick function it will run a feature out. Scripts can tell you what everything is.Use buttons to turn different game objects on and off with a true for false variable. Work on the functions of back end.
+Aiden: Fixed the other button so it is no longer a dead button, need to make the main menu more clean. Whiteboard sort of look to it with like a wipeanimations between each layout. $12 for office supplies. Maybe add animations to it. Each button over the text has a an onclick function it will run a feature out. Scripts can tell you what everything is.Use buttons to turn different game objects on and off with a true for false variable. Work on the functions of back end.
 
 Bradley: How to do an exit button to work through it. Work on the functions of back end.
 
@@ -408,8 +408,186 @@ Prioity is going to be fixing the scenes.
 Assets can be purchased with an expense report, 
 Interactive improvements, so that it can be a bit more realisitc.
 
-Pierce wanted us to talk about a restart simulation or back options. Try again and a restart button.
+Pierce wanted us to talk about a restart simulation or back options. Try again and a restart button should be included.
 Bradley asked if we can uses different packages.
 
 We should figure out reimbursement. Have an invoice for what things need to be improved.
 
+========================================================================
+
+**3rd Mentor Meeting - 10/31/22**
+
+Names of Attendants
+* Luke Pan
+* Davis Robert Cohen
+* Pierce Angeloff
+* Carol Chang
+* Aiden Colley
+* Bradley Sides
+
+Completed demo for mentor.
+
+Bradley asked for getting funding for assets. Ask Allen for laptops and assets.
+Maybe there could be a dead screen or no end to a path.
+
+bug fixing is still underway. We should make a running doc of all the bugs.
+
+Need to get rid of the dead ends. and the loops.
+
+Pierce also added a texture bit.
+
+Davis is looking to add sound into scenes, as a place holder.
+
+Do a paired programming session to get people to learn, do a fun paired programming with Aiden.
+
+Luke used a clear of patient on dead scenes. Also fixed unaligned text.
+
+Check in on menu screen and sound.
+
+Luke wants to fix frame FOV.
+
+Davis wants to work on the home button and a menu page.
+
+Bradley new whiteboard for layout and design.
+
+Pierce wants to improve the screne layout and design and find new Jira board tasks.
+
+========================================================================
+
+**9th Team Meeting - 11/2/22**
+
+Names of Attendants
+* Luke Pan
+* Davis Robert Cohen
+* Pierce Angeloff
+* Carol Chang
+* Aiden Colley
+* Bradley Sides
+
+Aiden: Added an outline option to represent new circles for the whiteboard idea.On mouse over, highlight its first child and set it active. OnMouseExit is when it stops, and then ONMouseDown you go to the next section. NEW OBJECTS ARE ALREADY MADE WITH HITBOXES! Will continue to improve.
+
+Davis: Got a heartbeat sound, and how to add it into the game. Now trying to oscillate the sound and change the speed and sound. Should work with Carol to get new sand elements in.
+
+Bradley: Layout of the whiteboard layout, should work with Aiden to get stuff done. Also want to work on an escape menu option.
+
+Luke: Working on moniter object.
+
+Pierce: Working on the desplay content itself.
+
+========================================================================
+
+**10th Team Meeting - 11/9/22**
+
+Names of Attendants
+* Luke Pan
+* Pierce Angeloff
+* Davis Robert Cohen
+* Aiden Colley
+* Carol Chang
+
+Aiden: Working with Bradley for the Whiteboard layout. So far the logic seems to be in place. WE HAVE A WHITEBOARD CIRCLE AND WE HAVE A CAMERA ANIMATION TO DRAW AWAY AND MOVE TO ANOTHER SCENE. Aiden added a spotlight feature.
+
+Bradley: has the whiteboard game object in place.
+
+Davis: Hasn't been able to get the ambient sound noise. Sound bites requested.
+
+Pierce: Playing with test environment for dynamic screen. Working with Text Mesh Map to add new texts and change values.
+
+Luke Pan: Messed around with Camera angles with no fish eye issue, the moniter screen was replaced for flat screen. Do we want to move the moniter back. Maybe a look back at the moniter option to like point an arrow key back at the moniter.
+
+Carol: Meeting Set on December 4th, 4pm. Going to email dr. chen for sound bits. Create proto bio sheet.
+
+
+========================================================================
+
+**4th Mentor Meeting - 11/14/22**
+
+Names of Attendants
+* Luke Pan
+* Davis Robert Cohen
+* Pierce Angeloff
+* Carol Chang
+* Aiden Colley
+
+Carol: Working on project video.
+Luke: Fixed Camera fish eyed issue, swapped moniter asset into a flat screen, add a view moniter button into scenes.
+Davis: Wants a back button and work on sound effects to the rest of the scene.
+Bradley: Wants to set up a home button/new UI. Home and Escape button should be implemented.
+Aiden: Working on the menu logic.
+Pierce: Working on moniter and displays. Finish screen implementation into the scene and change custom values.
+
+Need to figure out a merge meeting. Next meeting?
+Try to get everything done before the break.
+
+========================================================================
+
+**11th Team Meeting - 11/16/22**
+
+Names of Attendants
+* Luke Pan
+* Davis Robert Cohen
+* Pierce Angeloff
+* Carol Chang
+* Aiden Colley
+* Bradley Sides
+
+Davis: Few more scenes will have sound added soon, should be pushed later tonight, or tomorrow. Ambient sound is present for now.
+
+Bradley: Working with the whiteboard idea, for moving around the whiteboard for the first scene. Aiden has been working on something close to that. Working on an escape or home button?
+
+Aiden: Once the whiteboard is set, try to use it as an option menu, and look at the whiteboard for an option menu. Did some merge problems. Worked on the animations and did some camera moving stuff. Mayhapies wall mount it for layout ideas?
+
+Pierce: Can get a gif load into a screen. and make a gif run on the screen, and then made a sprite map for everything.
+
+Luke: Created a see moniter button but still working on a go back to patient button.
+
+Monday do a dry run, 4pm to do a dry run.
+
+Screenshots for the demo section, figure out who says what and stuff.
+
+========================================================================
+
+**5th Mentor Meeting - 11/28/22**
+
+Names of Attendants
+* Luke Pan
+* Aiden Colley
+* Bradley Sides
+* Pierce Angeloff
+* Carol Chang
+
+Grading Updates needed for the requirements document and wanted teams to put more effort into the requirements document update.
+
+We got a 10/10 on the requirements document!
+
+Project Plan is underway. Will recieve notes on what to do for the video as well, and try to make it work.
+
+we need some sort of architecture slides. and talk about what exists and what we are working on.
+
+We need some sort of introduction to the document explaining what the document is. maybe add a Gant chart? And we need some sort of tracking document to explain how we are organizing everything. Project Plan should not be a repeat of the requirements document, Maybe a Gant chart over major changes. Mayhapies need a higher level when for everything might be needed. work with notion or some other software to make a new timeline for tasks. Talk about how the team is going to communicate.
+
+========================================================================
+
+**12th Team Meeting - 11/30/22**
+
+Names of Attendants
+* Luke Pan
+* Davis Robert Cohen
+* Pierce Angeloff
+* Carol Chang
+* Aiden Colley
+* Bradley Sides
+
+Pierce: Managed to export screnes into a usable asset, need to add to scenes.
+
+Davis: Sound is in, just need to push it.
+
+Luke: Added a button that lets u look back at the patient after going to look at the screen and added it to another scene.
+
+Aiden: Animations for the main menu is still under development.
+
+Bradley: Font import for the whiteboard.
+
+Carol: Working on the documentation. And reached out to Jodi for scene things.
+
+completed team meeting.

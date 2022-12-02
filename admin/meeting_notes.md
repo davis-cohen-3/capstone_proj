@@ -591,3 +591,33 @@ Bradley: Font import for the whiteboard.
 Carol: Working on the documentation. And reached out to Jodi for scene things.
 
 completed team meeting.
+
+========================================================================
+
+**3rd Sponsor Meeting - 12/2/22**
+
+Names of Attendants
+* Luke Pan
+* Davis Robert Cohen
+* Pierce Angeloff
+* Carol Chang
+* Bradley Sides
+
+Christopher Baker is now a shareholder who is now added to the project.
+
+Team that was to look at last time. New Moniter, better position for monitor, going to add readings soon.
+
+We need device beeping sound effects is needed. we also we have ambient hospital. Frequency variance that needs to be better. heart rate is the beeping speed, and then oxygen gets higher pitch rises, and as it gets worse it lowers.
+
+Some notes for consideration:
+
+we need better font consideration. try to make content into bullet points.
+
+Christopher can give us parameters! we need a respitory rate at the botton sin wave as more info. Again dr chan is going into operation in two weeks and will give us input.
+
+We like the button up view. maybe zoomed out more. silk sutures on the neck might be there? TRAC TUBE NEEDS A HOLE, need to find out when the operation was happening, and then add more info into it. talk about logic again in the future... modify of the logic may be needed. Christopher.Baker@CUAnschutz.edu
+
+Availability will be set for February.
+
+
+Demo has gone well.

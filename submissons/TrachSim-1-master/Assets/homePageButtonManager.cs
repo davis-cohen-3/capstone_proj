@@ -7,9 +7,9 @@ using UnityEngine.SceneManagement;
 public class homePageButtonManager : MonoBehaviour
 {
     GameObject svars;
-    public GameObject but1;
-    public GameObject but2;
-    public GameObject but3;
+    // public GameObject but1;
+    // public GameObject but2;
+    // public GameObject but3;
 
     // Start is called before the first frame update
     void Start()
@@ -29,19 +29,16 @@ public class homePageButtonManager : MonoBehaviour
         {
             Debug.Log("CPR");
             SceneManager.LoadScene("IncorrectCPRABG");
-            but1.gameObject.SetActive(false);
         }
         if (choice == "Inspect")
         {
             Debug.Log("Isnpect Trach");
             SceneManager.LoadScene("Inspect Trach");
-            but2.gameObject.SetActive(false);
         }
         if (choice == "ABG")
         {
             Debug.Log("ABG");
             SceneManager.LoadScene("IncorrectCPRABG");
-            but3.gameObject.SetActive(false);
         }
 
 

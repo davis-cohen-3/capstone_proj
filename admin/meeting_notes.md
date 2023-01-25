@@ -621,3 +621,23 @@ Availability will be set for February.
 
 
 Demo has gone well.
+
+========================================================================
+
+**12th Team Meeting - 1/18/22**
+
+* Luke Pan
+* Davis Robert Cohen
+* Pierce Angeloff
+* Carol Chang
+
+Luke: Working on misc bug fixes
+
+Carol: Working on asset transfer
+
+Davis: Working on back button.
+
+Pierce: dynamic display for patient condition monitor.
+
+
+

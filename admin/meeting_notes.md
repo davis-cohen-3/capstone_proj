@@ -626,6 +626,7 @@ Demo has gone well.
 
 **12th Team Meeting - 1/18/22**
 
+Names of Attendants
 * Luke Pan
 * Davis Robert Cohen
 * Pierce Angeloff
@@ -639,5 +640,23 @@ Davis: Working on back button.
 
 Pierce: dynamic display for patient condition monitor.
 
+========================================================================
 
+**13th Team Meeting - 1/25/22**
+
+Names of Attendants
+* Luke Pan
+* Pierce Angeloff
+* Carol Chang
+* Bradley Sides
+* Aiden Colley
+* Davis Robert Cohen
+
+Luke: Fixed a bug and posted it on the Jira Board. this was the ENT before PICU code and fixed it. dislogged and logged tract. maybe look into those options?
+
+Bradley: Just got back, add more functionality to the whiteboard. with Aiden plan to make a meeting.
+
+Pierce: is working on new visuals for gif.
+
+Davis: sync with breathing. Back button.
 

@@ -642,7 +642,7 @@ Pierce: dynamic display for patient condition monitor.
 
 ========================================================================
 
-**13th Team Meeting - 1/25/22**
+**13th Team Meeting - 1/25/23**
 
 Names of Attendants
 * Luke Pan
@@ -659,4 +659,50 @@ Bradley: Just got back, add more functionality to the whiteboard. with Aiden pla
 Pierce: is working on new visuals for gif.
 
 Davis: sync with breathing. Back button.
+
+========================================================================
+
+**14th Team Meeting - 2/1/23**
+
+Names of Attendants
+* Luke Pan
+* Pierce Angeloff
+* Carol Chang
+* Bradley Sides
+* Aiden Colley
+* Davis Robert Cohen
+
+Davis: back button is pushed for one scene by tomorrow.
+
+Pierce: Code modular text on display. Goals to have this showable to client by meeting in two weeks.
+
+Bradley: Trying to link assets of the screen, work with Aiden to show client. So clean up display make first menu, change tracks if unsuccessful next week.
+
+Luke: Fixing camera view, to include another view presepective.
+
+Carol: Try to wire pulse per breath, use knowledge form Davis to change pitch and frequency of sound file.
+
+========================================================================
+
+**6th Mentor Meeting - 2/1/23**
+
+Names of Attendants
+* Luke Pan
+* Pierce Angeloff
+* Carol Chang
+* Bradley Sides
+* Aiden Colley
+* Davis Robert Cohen
+
+Dreycey is going to give out grading ruburic.
+
+This semester is going to be a lot less doc heavy, we are just going to code!
+
+Luke: Moniter view button is fixed, patient and monitor view is two seperate things. (maybe integrate the two into one element.)
+
+Davis: get back button pushed, and then work with Carol to add heatbeat noises. Back button for every scene.
+
+Bradley and Aiden: Working on the UI for the screne, tyring to complete it.
+
+Pierce: Finish breathing cycle, and export the screen to scenes. And implemented into scenes.
 

@@ -30,6 +30,7 @@ public class BreathingScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        // pauses breathing in between breathing in, vs breathing out.
         if(pauseBreath){
             pause_index += 1;
             if(pause_index >= pause_length){
@@ -41,8 +42,6 @@ public class BreathingScript : MonoBehaviour
             // increments or dicrements based on if the compoent is breathing in or not.
             if(breathIn){
                 breathMesh.SetBlendShapeWeight (0, breathValue);
-                breathMesh.SetBlendShapeWeight (1, breathValue);
-                breathMesh.SetBlendShapeWeight (2, breathValue);
                 breathValue += bc_step_size;
                 breathIn = breathValue < 100;
                 if(breathIn == false){
@@ -51,12 +50,10 @@ public class BreathingScript : MonoBehaviour
             }
             else{
                 breathMesh.SetBlendShapeWeight (0, breathValue);
-                breathMesh.SetBlendShapeWeight (1, breathValue);
-                breathMesh.SetBlendShapeWeight (2, breathValue);
                 breathValue -= bc_step_size;
                 breathIn = breathValue <= 0;
                 if(breathIn == true){
-                    pauseBreath = false;
+                    pauseBreath = true;
                 }
             }
         }

@@ -190,6 +190,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1979162336813711091, guid: f1d0b7ad70134c543a508695f27b4224, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f1d0b7ad70134c543a508695f27b4224, type: 3}
 --- !u!1 &1141614153
@@ -202,7 +206,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1141614156}
   - component: {fileID: 1141614155}
-  - component: {fileID: 1141614154}
   m_Layer: 0
   m_Name: Audio Source
   m_TagString: Untagged
@@ -210,14 +213,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!81 &1141614154
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1141614153}
-  m_Enabled: 1
 --- !u!82 &1141614155
 AudioSource:
   m_ObjectHideFlags: 0

@@ -4,6 +4,14 @@ using UnityEngine;
 
 public class WhiteboardButton : MonoBehaviour
 {
+    public enum button_types
+    {
+        Next,
+        Back
+    };
+
+    public button_types button_type;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -28,7 +36,13 @@ public class WhiteboardButton : MonoBehaviour
 
     private void OnMouseDown()
     {
-        Camera.main.GetComponent<MenuCamera>().Transition();
-        //print("Hello World");
+        if (button_type == button_types.Next)
+        {
+            Camera.main.GetComponent<MenuCamera>().Next();
+        }
+        else if (button_type == button_types.Back)
+        {
+            Camera.main.GetComponent<MenuCamera>().Back();
+        }        
     }
 }

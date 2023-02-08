@@ -5,8 +5,8 @@ using UnityEngine;
 public class MenuCamera : MonoBehaviour
 {
 
-
     Animator animator;
+    int cam_position = 0;
 
     // Start is called before the first frame update
     void Start()
@@ -20,8 +20,15 @@ public class MenuCamera : MonoBehaviour
         
     }
 
-    public void Transition()
+    public void Next()
     {
-        animator.Play("cam_animation");
+        cam_position++;
+        animator.SetInteger("cam_position", cam_position);
+    }
+
+    public void Back()
+    {
+        cam_position--;
+        animator.SetInteger("cam_position", cam_position);
     }
 }

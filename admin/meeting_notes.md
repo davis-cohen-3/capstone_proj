@@ -706,3 +706,22 @@ Bradley and Aiden: Working on the UI for the screne, tyring to complete it.
 
 Pierce: Finish breathing cycle, and export the screen to scenes. And implemented into scenes.
 
+========================================================================
+
+**15th Team Meeting - 2/8/23**
+
+Names of Attendants
+* Luke Pan
+* Pierce Angeloff
+* Carol Chang
+* Bradley Sides
+* Aiden Colley
+* Davis Robert Cohen
+
+Luke: View Button progress under way.
+
+Aiden: Bradley and Aiden got the opening menu working order!
+
+Pierce: Pulse Oximeter Dynamic screen looks good going to implement.
+
+Davis: Back button works, but functionality might be abit strange.

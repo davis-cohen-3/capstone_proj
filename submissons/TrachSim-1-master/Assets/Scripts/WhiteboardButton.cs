@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class WhiteboardButton : MonoBehaviour
 {
+
     public enum button_types
     {
         Next,
@@ -11,6 +12,7 @@ public class WhiteboardButton : MonoBehaviour
     };
 
     public button_types button_type;
+    public int button_section;
 
     // Start is called before the first frame update
     void Start()
@@ -26,23 +28,34 @@ public class WhiteboardButton : MonoBehaviour
 
     private void OnMouseOver()
     {
-        this.gameObject.transform.GetChild(0).gameObject.SetActive(true);
+        if (Camera.main.GetComponent<MenuCamera>().getCamPosition() == button_section)
+        {
+            this.gameObject.transform.GetChild(0).gameObject.SetActive(true);
+        }
     }
 
     private void OnMouseExit()
     {
-        this.gameObject.transform.GetChild(0).gameObject.SetActive(false);
+        if (Camera.main.GetComponent<MenuCamera>().getCamPosition() == button_section)
+        {
+            this.gameObject.transform.GetChild(0).gameObject.SetActive(false);
+        }
     }
 
     private void OnMouseDown()
     {
-        if (button_type == button_types.Next)
+        if (Camera.main.GetComponent<MenuCamera>().getCamPosition() == button_section)
         {
-            Camera.main.GetComponent<MenuCamera>().Next();
+            if (button_type == button_types.Next)
+            {
+                Camera.main.GetComponent<MenuCamera>().Next();
+                this.gameObject.transform.GetChild(0).gameObject.SetActive(true);
+            }
+            else if (button_type == button_types.Back)
+            {
+                Camera.main.GetComponent<MenuCamera>().Back();
+                this.gameObject.transform.GetChild(0).gameObject.SetActive(false);
+            }
         }
-        else if (button_type == button_types.Back)
-        {
-            Camera.main.GetComponent<MenuCamera>().Back();
-        }        
     }
 }

@@ -31,4 +31,9 @@ public class MenuCamera : MonoBehaviour
         cam_position--;
         animator.SetInteger("cam_position", cam_position);
     }
+
+    public int getCamPosition() 
+    {
+        return this.cam_position;
+    }
 }

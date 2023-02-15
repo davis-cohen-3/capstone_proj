@@ -8,7 +8,7 @@ public class MainMenuManage : MonoBehaviour
     // Start is called before the first frame update
     public void Press()
     {
-        SceneManager.LoadScene("Home - HUD Template");
+        SceneManager.LoadScene("NewMainMenu");
     }
 
     // Update is called once per fram

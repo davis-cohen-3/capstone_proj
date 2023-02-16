@@ -22,5 +22,11 @@ public class stateVars : MonoBehaviour
 
     }
 
-
+    public void ResetPoistions() 
+    {
+        this.isENT = false;
+        this.isNurse = false;
+        this.isPT = false;
+        this.isOther = false;
+    }
 }

@@ -725,3 +725,56 @@ Aiden: Bradley and Aiden got the opening menu working order!
 Pierce: Pulse Oximeter Dynamic screen looks good going to implement.
 
 Davis: Back button works, but functionality might be abit strange.
+
+========================================================================
+
+**4th Sponsor Meeting - 2/15/23**
+
+Names of Attendants
+* Luke Pan
+* Pierce Angeloff
+* Carol Chang
+* Bradley Sides
+* Aiden Colley
+* Dr. Chan, and Baker
+
+Patient assets have been updated, more realistic features, additional wiring is still a bit more winded.
+
+Realism is good, but the design experience is still lacking. 
+
+Aiden and Bradley worked more on the UI.
+
+we should do some independent research...
+
+color of patient to change as condition changes.
+
+normal pulse repsiration:
+
+mild:
+
+severe:
+
+death: 
+
+flux down generally with the rates...
+
+so smarter camera pans, and more realistic view transitions! try and make the angle changes look reaslistic between scenes to make things more realistic.
+
+next meeting will be the final changes.
+
+the last one will be the final show case.
+
+========================================================================
+
+**7th Mentor Meeting - 2/15/23**
+
+Names of Attendants
+* Luke Pan
+* Pierce Angeloff
+* Carol Chang
+* Bradley Sides
+* Aiden Colley
+
+Maybe we could do a few menu's that change position and get new options.
+
+Carol should add sound, and work on proof of concept

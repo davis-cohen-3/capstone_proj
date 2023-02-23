@@ -778,3 +778,20 @@ Names of Attendants
 Maybe we could do a few menu's that change position and get new options.
 
 Carol should add sound, and work on proof of concept
+
+========================================================================
+
+**16th Team Meeting - 2/22/23**
+
+Names of Attendants
+* Pierce Angeloff
+* Carol Chang
+* Bradley Sides
+* Davis Robert Cohen
+
+* Luke Pan
+* Aiden Colley
+
+Davis: No updates work the backend
+Pierce: going to work in the numbers
+Bradley: Add whiteboard to the other scenes.

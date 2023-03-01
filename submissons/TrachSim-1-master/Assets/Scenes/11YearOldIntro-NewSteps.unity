@@ -273,6 +273,16 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f1d0b7ad70134c543a508695f27b4224, type: 3}
+--- !u!1 &252203309 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6783191068713192242, guid: c51fcb6937ce67346a9edc86b1e0c5d5, type: 3}
+  m_PrefabInstance: {fileID: 1273971913}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1018025163 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3781047045501164608, guid: c51fcb6937ce67346a9edc86b1e0c5d5, type: 3}
+  m_PrefabInstance: {fileID: 1273971913}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1141614153
 GameObject:
   m_ObjectHideFlags: 0
@@ -517,6 +527,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 1235197718}
+  gameButtonsForStart:
+  - {fileID: 252203309}
+  gameButtonsForTrach:
+  - {fileID: 1301292006}
+  gameButtonsForMonitor:
+  - {fileID: 1018025163}
+  gameButtonsForDoor: []
 --- !u!1001 &1273971913
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -842,6 +859,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c51fcb6937ce67346a9edc86b1e0c5d5, type: 3}
+--- !u!1 &1301292006 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1902701072811220410, guid: c51fcb6937ce67346a9edc86b1e0c5d5, type: 3}
+  m_PrefabInstance: {fileID: 1273971913}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1328182549
 GameObject:
   m_ObjectHideFlags: 0

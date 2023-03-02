@@ -818,3 +818,19 @@ Bradley: Whiteboard porting into other scenes.
 
 Carol: New buttons display integrated.
 
+========================================================================
+
+**8th Mentor Meeting - 3/1/23**
+
+Names of Attendants
+* Luke Pan
+* Pierce Angeloff
+* Carol Chang
+* Bradley Sides
+* Aiden Colley
+
+Bradley: has whiteboard screen implemented. porting it over shouldn't be too hard.
+
+Pierce: Monitor is in game, but working on adding new numbers with client.
+
+Luke: Working a bit more on the views but got to implement some back end stuff.

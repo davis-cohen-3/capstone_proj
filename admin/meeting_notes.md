@@ -833,4 +833,8 @@ Bradley: has whiteboard screen implemented. porting it over shouldn't be too har
 
 Pierce: Monitor is in game, but working on adding new numbers with client.
 
-Luke: Working a bit more on the views but got to implement some back end stuff.
+Luke: Working a bit more on the views but got to implement some back end stuff. unify coordinates for objects in scenes.
+
+Carol: Arrow key movements and modular display of buttons.
+
+Group cleaned up the Jira Board.

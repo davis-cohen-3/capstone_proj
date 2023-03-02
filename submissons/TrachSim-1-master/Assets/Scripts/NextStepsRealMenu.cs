@@ -12,7 +12,7 @@ public class NextStepsRealMenu : MonoBehaviour
     public List<GameObject> gameButtonsForMonitor = new List<GameObject>();                // list of all the buttons that need to be active when the camera pans to the monitor position.
     public List<GameObject> gameButtonsForDoor = new List<GameObject>();                   // list of all the buttons that need to be active when the camera pans to the door position.
     List<List<GameObject>> gameButtons = new List<List<GameObject>>();                     // composite lists that stores the other arrays together for ease of access.
-    int state = 1;                                                                         // tracks current animator state.
+    int state = 0;                                                                         // tracks current animator state.
     int[,] substates = { {3, 3, 1, -1}, {2, 2, -1, 1}, {1 , -1, -1, -1}, {-1, 0, 0, 0} };  // hard-coded state values that should change, based on arrow input, and current state. ex. [left, facing trach] = [0,2] -> 1 which is face door.
 
     // Start is called before the first frame update
@@ -28,11 +28,14 @@ public class NextStepsRealMenu : MonoBehaviour
 
     // takes as input two lists of game objects that need to be activated, and game objects that need to be deactivated.
     //  the latter happens before the former.
-    void swapActivity(List<GameObject> activateList, List<GameObject> deactivateList)
+    IEnumerator swapActivity(List<GameObject> activateList, List<GameObject> deactivateList)
     {
         for(int i = 0;  i < deactivateList.Count; i++){
             deactivateList[i].SetActive(false);
         }
+
+        yield return new WaitForSeconds(1);
+
         for(int i = 0;  i < activateList.Count; i++){
             activateList[i].SetActive(true);
         }
@@ -46,25 +49,25 @@ public class NextStepsRealMenu : MonoBehaviour
             int p_state = state;
             state = substates[0,state];
             animator.SetInteger("state", state);
-            swapActivity(gameButtons[state], gameButtons[p_state]);
+            StartCoroutine(swapActivity(gameButtons[state], gameButtons[p_state]));
         }
         else if(Input.GetKeyUp("right") && substates[1,state] != -1){
             int p_state = state;
             state = substates[1,state];
             animator.SetInteger("state", state);
-            swapActivity(gameButtons[state], gameButtons[p_state]);
+            StartCoroutine(swapActivity(gameButtons[state], gameButtons[p_state]));
         }
         else if(Input.GetKeyUp("up") && substates[2,state] != -1){
             int p_state = state;
             state = substates[2,state];
             animator.SetInteger("state", state);
-            swapActivity(gameButtons[state], gameButtons[p_state]);
+            StartCoroutine(swapActivity(gameButtons[state], gameButtons[p_state]));
         }
         else if(Input.GetKeyUp("down") && substates[3,state] != -1){
             int p_state = state;
             state = substates[3,state];
             animator.SetInteger("state", state);
-            swapActivity(gameButtons[state], gameButtons[p_state]);
+            StartCoroutine(swapActivity(gameButtons[state], gameButtons[p_state]));
         }
     }
 }

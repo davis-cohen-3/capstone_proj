@@ -789,9 +789,32 @@ Names of Attendants
 * Bradley Sides
 * Davis Robert Cohen
 
-* Luke Pan
-* Aiden Colley
-
 Davis: No updates work the backend
 Pierce: going to work in the numbers
 Bradley: Add whiteboard to the other scenes.
+
+========================================================================
+
+**17th Team Meeting - 3/1/23**
+
+Names of Attendants
+* Luke Pan
+* Pierce Angeloff
+* Aiden Colley
+* Davis Robert Cohen
+* Carol Chang
+* Bradley Sides
+
+
+Aiden: No opportunities to progress.
+
+Pierce: No progress either more numbers for the screens.
+
+Davis: No progress due to midterms.
+
+Luke: unify the coordinates for all the scenes. ported over the IV drip and pulse pads.
+
+Bradley: Whiteboard porting into other scenes.
+
+Carol: New buttons display integrated.
+

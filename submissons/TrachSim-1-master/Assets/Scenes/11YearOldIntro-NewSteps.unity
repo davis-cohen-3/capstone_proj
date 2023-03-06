@@ -605,6 +605,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: trachButton
       objectReference: {fileID: 0}
+    - target: {fileID: 1902701072811220410, guid: c51fcb6937ce67346a9edc86b1e0c5d5, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3741392088189201281, guid: c51fcb6937ce67346a9edc86b1e0c5d5, type: 3}
       propertyPath: m_Name
       value: RPanel
@@ -612,6 +616,10 @@ PrefabInstance:
     - target: {fileID: 3781047045501164608, guid: c51fcb6937ce67346a9edc86b1e0c5d5, type: 3}
       propertyPath: m_Name
       value: abgButton
+      objectReference: {fileID: 0}
+    - target: {fileID: 3781047045501164608, guid: c51fcb6937ce67346a9edc86b1e0c5d5, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4395807503917490288, guid: c51fcb6937ce67346a9edc86b1e0c5d5, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -812,6 +820,10 @@ PrefabInstance:
     - target: {fileID: 6783191068713192242, guid: c51fcb6937ce67346a9edc86b1e0c5d5, type: 3}
       propertyPath: m_Name
       value: cprButton
+      objectReference: {fileID: 0}
+    - target: {fileID: 6783191068713192242, guid: c51fcb6937ce67346a9edc86b1e0c5d5, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6997350088397241811, guid: c51fcb6937ce67346a9edc86b1e0c5d5, type: 3}
       propertyPath: m_RenderMode

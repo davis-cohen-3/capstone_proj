@@ -34,7 +34,7 @@ public class NextStepsRealMenu : MonoBehaviour
             deactivateList[i].SetActive(false);
         }
 
-        yield return new WaitForSeconds(1);
+        yield return new WaitForSeconds(0.5F);
 
         for(int i = 0;  i < activateList.Count; i++){
             activateList[i].SetActive(true);

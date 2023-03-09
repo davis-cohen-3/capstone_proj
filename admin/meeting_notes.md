@@ -838,3 +838,25 @@ Luke: Working a bit more on the views but got to implement some back end stuff. 
 Carol: Arrow key movements and modular display of buttons.
 
 Group cleaned up the Jira Board.
+
+========================================================================
+
+**18th Team Meeting - 3/8/23**
+
+Names of Attendants
+* Pierce Angeloff
+* Aiden Colley
+* Carol Chang
+* Luke Pan
+* Davis Robert Cohen
+* Bradley Sides
+
+Aiden: New Main Menu is now the default features for everything. Whiteboard feature integration.
+
+Luke: Script porting and the outline box on top of the oximeter. complete integration.
+
+Pierce: Oximeter values updated, added to each scenes.
+
+Carol: Finish studying scenes and start fixing scenes.
+
+Team has agreed to meet next week on Monday to prep for client meeting on Tuesday the 14th.

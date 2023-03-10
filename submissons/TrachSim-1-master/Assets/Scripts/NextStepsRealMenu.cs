@@ -30,11 +30,11 @@ public class NextStepsRealMenu : MonoBehaviour
     //  the latter happens before the former.
     IEnumerator swapActivity(List<GameObject> activateList, List<GameObject> deactivateList)
     {
+        yield return new WaitForSeconds(0.5F);
+
         for(int i = 0;  i < deactivateList.Count; i++){
             deactivateList[i].SetActive(false);
         }
-
-        yield return new WaitForSeconds(0.5F);
 
         for(int i = 0;  i < activateList.Count; i++){
             activateList[i].SetActive(true);

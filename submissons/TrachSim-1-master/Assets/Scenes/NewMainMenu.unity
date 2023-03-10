@@ -1449,7 +1449,7 @@ TextMesh:
     support for over \na month.  4 days ago the patient underwent \na microlaryngoscopy
     and bronchoscopy \nshowing no subglottic stenosis and an uneventful \ntracheostomy
     with a 5 cuffed tube.\nYou have been alerted by the pulse oximeter alarm\n and
-    are at the bedside. "
+    are at the bedside. Use arrow keys to navigate scenes."
   m_OffsetZ: 0
   m_CharacterSize: 0.5
   m_LineSpacing: 1
@@ -4243,7 +4243,7 @@ TextMesh:
     support for over \na month.  4 days ago the patient underwent \na microlaryngoscopy
     and bronchoscopy \nshowing no subglottic stenosis and an uneventful \ntracheostomy
     with a 5 cuffed tube.\nYou have been alerted by the pulse oximeter alarm\n and
-    are at the bedside. "
+    are at the bedside. Use arrows to navigate scenes.,"
   m_OffsetZ: 0
   m_CharacterSize: 0.5
   m_LineSpacing: 1

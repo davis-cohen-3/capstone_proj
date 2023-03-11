@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using TMPro;
 
 public class PatientMonitor : MonoBehaviour
@@ -18,9 +19,8 @@ public class PatientMonitor : MonoBehaviour
     void Start()
     {
         this.timeCounter = Time.realtimeSinceStartupAsDouble;
-        this.heartRate = 75;
-        this.oxygenSaturation = 88;
-        this.respirationRate = 100;
+        // Default values (no distress)
+        setValues();
         this.flux1 = 0; this.flux2 = 0; this.flux3 = 0;
     }
 
@@ -41,6 +41,22 @@ public class PatientMonitor : MonoBehaviour
         this.heartRateText.text = (this.heartRate + flux1).ToString();
         this.oxygenSaturationText.text = (this.oxygenSaturation + flux2).ToString();
         this.respirationRateText.text = (this.respirationRate + flux3).ToString();
+    }
+
+    public void setValues() {
+        string sceneName = SceneManager.GetActiveScene().name;
+        switch(sceneName) {
+            case "Patient Deteriorating":
+                this.heartRate = 120;
+                this.respirationRate = 36;
+                this.oxygenSaturation = 86;
+                return;
+            default:
+                this.heartRate = 80;
+                this.respirationRate = 16;
+                this.oxygenSaturation = 96;
+                return;
+        }
     }
 
 }

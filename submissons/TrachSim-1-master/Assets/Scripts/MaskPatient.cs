@@ -7,6 +7,7 @@ using UnityEngine.SceneManagement;
 public class MaskPatient : MonoBehaviour
 {
 
+
     /*public void TaskOnContinueClick(string choice)
     {
         if (choice == "Continue")

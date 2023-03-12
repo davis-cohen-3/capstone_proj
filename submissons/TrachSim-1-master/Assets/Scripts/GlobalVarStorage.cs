@@ -59,8 +59,6 @@ public class GlobalVarStorage : MonoBehaviour
 
             iter++;
         }
-        // TODO: set dislogedBranch to false and endStateSuccess to true in the ReplaceTrach script(s)
-        // when they're done
     }
 
     void Awake()
@@ -69,6 +67,7 @@ public class GlobalVarStorage : MonoBehaviour
     }
 
     // Update is called once per frame
+    // TODO: piece together this maddness
     void Update()
     {
 

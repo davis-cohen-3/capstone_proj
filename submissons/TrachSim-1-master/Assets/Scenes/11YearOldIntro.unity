@@ -548,6 +548,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RCanvas (options)
       objectReference: {fileID: 0}
+    - target: {fileID: 1245605161340694986, guid: c51fcb6937ce67346a9edc86b1e0c5d5, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1480540152806770208, guid: c51fcb6937ce67346a9edc86b1e0c5d5, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1

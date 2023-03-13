@@ -47,16 +47,40 @@ public class PatientMonitor : MonoBehaviour
         string sceneName = SceneManager.GetActiveScene().name;
         switch(sceneName) {
             case "Patient Deteriorating":
-                this.heartRate = 120;
-                this.respirationRate = 36;
-                this.oxygenSaturation = 86;
+                mildDistress();
+                return;
+            case "11YearOldIntro":
+                mildDistress();
+                return;
+            case "Mask Patient":
+                normal();
+                return;
+            case "Replace Trach":
+                mildDistress();
                 return;
             default:
-                this.heartRate = 80;
-                this.respirationRate = 16;
-                this.oxygenSaturation = 96;
+                normal();
                 return;
         }
+    }
+
+    // Private helper functions that will set the values based on the state of the patient
+    private void normal() {
+        this.heartRate = 80;
+        this.respirationRate = 16;
+        this.oxygenSaturation = 96;
+    }
+
+    private void mildDistress() {
+        this.heartRate = 120;
+        this.respirationRate = 36;
+        this.oxygenSaturation = 86;
+    }
+
+    private void severe() {
+        this.heartRate = 120;
+        this.respirationRate = 46;
+        this.oxygenSaturation = 70;
     }
 
 }

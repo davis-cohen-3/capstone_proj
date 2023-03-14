@@ -16,7 +16,8 @@ public class WhiteboardButton : MonoBehaviour
         Other,
         Male,
         Female,
-        Finish
+        Start,
+        Quit
     };
 
     public button_types button_type;
@@ -102,8 +103,11 @@ public class WhiteboardButton : MonoBehaviour
                 this.section_5.SetActive(false);
                 this.section_4.SetActive(true);
                 break;
-            case button_types.Finish:
+            case button_types.Start:
                 SceneManager.LoadScene("11YearOldIntro");
+                break;
+            case button_types.Quit:
+                Application.Quit();
                 break;
         }
     }

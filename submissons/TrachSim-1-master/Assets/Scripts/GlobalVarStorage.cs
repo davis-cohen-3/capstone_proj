@@ -38,24 +38,7 @@ public class GlobalVarStorage : MonoBehaviour
         if (iter == 0)
         {
 
-            //For dislodged branch
-            CalledACode = false;
-            CalledENT = false;
-
-            // For in place branch
-            IP_CalledACode = false;
-            IP_CalledENT = false;
-            IP_TurnedOxUp = false;
-
-            // For suction trach
-            ST_Able = false;
-            ST_Unable = false;
-
-            //Disloged to in place check bools
-            RT_ENT = false;
-            RT_PICUb4ENT = false;
-            RT_PICUteam = false;
-            endStateSuccess = false;
+            ResetVariables();
 
             iter++;
         }
@@ -77,5 +60,27 @@ public class GlobalVarStorage : MonoBehaviour
             InPlaceChoicesPanel.SetActive(true);
             SceneManager.LoadScene("Inspect Trach");
         }
+    }
+
+    public static void ResetVariables() 
+    {
+        //For dislodged branch
+        CalledACode = false;
+        CalledENT = false;
+
+        // For in place branch
+        IP_CalledACode = false;
+        IP_CalledENT = false;
+        IP_TurnedOxUp = false;
+
+        // For suction trach
+        ST_Able = false;
+        ST_Unable = false;
+
+        //Disloged to in place check bools
+        RT_ENT = false;
+        RT_PICUb4ENT = false;
+        RT_PICUteam = false;
+        endStateSuccess = false;
     }
 }

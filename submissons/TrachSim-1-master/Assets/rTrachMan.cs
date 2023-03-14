@@ -248,6 +248,11 @@ public class rTrachMan : MonoBehaviour
         {
             SceneManager.LoadScene("Inspect Trach");
         }
+        else if (phase == 5)
+        {
+            phase = 0;
+            SceneManager.LoadScene("NewMainMenu");
+        }
     }
     public void button2()
     {
@@ -383,6 +388,12 @@ public class rTrachMan : MonoBehaviour
         else
         {
             lPanel.GetComponent<TMPro.TextMeshProUGUI>().text = "Success! Patient stabilized. Training session complete";
+
+            but1.GetComponentInChildren<Text>().text = "Main Menu";
+            but1.SetActive(true);
+            phase = 5;
+            GlobalVarStorage.ResetVariables();
+
             //TODO: could include a back to menu option somewhere here.
         }
     }

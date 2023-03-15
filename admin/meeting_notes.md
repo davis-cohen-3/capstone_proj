@@ -860,3 +860,57 @@ Pierce: Oximeter values updated, added to each scenes.
 Carol: Finish studying scenes and start fixing scenes.
 
 Team has agreed to meet next week on Monday to prep for client meeting on Tuesday the 14th.
+
+========================================================================
+
+**19th Team Meeting - 3/15/23**
+
+Names of Attendants
+* Pierce Angeloff
+* Carol Chang
+* Luke Pan
+* Davis Robert Cohen
+* Bradley Sides
+* Aiden Colley
+
+Luke: Porting over scripts to other scenes.
+
+Bradley: Whiteboard should be in, and for some reason the light goes out.
+
+Davis: Has free time and needs to be caught up.
+
+Pierce: Looking at rTrachMan errors.
+
+Carol: Start to figure out next steps.
+
+Aiden: Completed the back home button.
+
+Carol, 
+
+Luke, Aiden, Start working on final project poster.
+
+Pierce, Davis, Bradley  Bug fixing
+
+========================================================================
+
+**9th Mentor Meeting - 3/15/23**
+
+Names of Attendants
+* Luke Pan
+* Pierce Angeloff
+* Carol Chang
+* Bradley Sides
+* Aiden Colley
+* Davis Robert Cohen
+
+There is a template poster that we can work off of.
+
+Powerpoint template that we should probably build off of.
+
+There are examples we can reference later.
+
+Lighting issues.
+
+Weird Purple Box
+
+Need a continue button.

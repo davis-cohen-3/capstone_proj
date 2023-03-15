@@ -21,10 +21,6 @@ public class GlobalVarStorage : MonoBehaviour
     public static bool ST_Able;
     public static bool ST_Unable;
 
-    // Creating local GameObjects to display in place/dislodged panels
-    public GameObject InPlaceChoicesPanel;
-    public GameObject DislodgedChoicesPanel;
-
     // Creating global bools to ensure learner has gone through all 3 replace trach scenarios before being shown the in-place inspect trach
     public static bool RT_PICUteam;
     public static bool RT_PICUb4ENT;
@@ -42,6 +38,9 @@ public class GlobalVarStorage : MonoBehaviour
 
             iter++;
         }
+        else{
+            Destroy(this.gameObject);
+        }
     }
 
     void Awake()
@@ -50,16 +49,9 @@ public class GlobalVarStorage : MonoBehaviour
     }
 
     // Update is called once per frame
-    // TODO: piece together this maddness
     void Update()
     {
 
-        if(RT_ENT == true && RT_PICUb4ENT == true && RT_PICUteam == true && endStateSuccess == true)
-        {
-            DislodgedChoicesPanel.SetActive(false);
-            InPlaceChoicesPanel.SetActive(true);
-            SceneManager.LoadScene("Inspect Trach");
-        }
     }
 
     public static void ResetVariables() 

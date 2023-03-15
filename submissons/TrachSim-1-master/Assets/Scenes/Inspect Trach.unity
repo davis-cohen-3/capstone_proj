@@ -2675,6 +2675,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: IP_Meantime Options
       objectReference: {fileID: 0}
+    - target: {fileID: 1245605161340694986, guid: c51fcb6937ce67346a9edc86b1e0c5d5, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1818246057861224379, guid: c51fcb6937ce67346a9edc86b1e0c5d5, type: 3}
       propertyPath: m_Text
       value: Suction Trach
@@ -3152,6 +3156,7 @@ GameObject:
   - component: {fileID: 1694473964}
   - component: {fileID: 1694473968}
   - component: {fileID: 1694473969}
+  - component: {fileID: 1694473970}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -3282,6 +3287,20 @@ MonoBehaviour:
   IP_CallENT: {fileID: 841228848}
   IP_TurnOxUp: {fileID: 1366096112}
   IP_Meantime: {fileID: 2014479324}
+--- !u!114 &1694473970
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1694473963}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0794e9193c650a94684aec4dcda12dc7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  InPlaceChoicesPanel: {fileID: 1825449239}
+  DislodgedChoicesPanel: {fileID: 341878808}
 --- !u!1001 &1696639939
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3448,8 +3467,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5dcdde6ed67514a4aba063f63bffe559, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  InPlaceChoicesPanel: {fileID: 0}
-  DislodgedChoicesPanel: {fileID: 0}
 --- !u!1001 &1735624897
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3460,6 +3477,10 @@ PrefabInstance:
     - target: {fileID: 1245605161340694986, guid: c51fcb6937ce67346a9edc86b1e0c5d5, type: 3}
       propertyPath: m_Name
       value: RCanvas (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1245605161340694986, guid: c51fcb6937ce67346a9edc86b1e0c5d5, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1480540152806770208, guid: c51fcb6937ce67346a9edc86b1e0c5d5, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -3495,7 +3516,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1818246057861224379, guid: c51fcb6937ce67346a9edc86b1e0c5d5, type: 3}
       propertyPath: m_Text
-      value: Call a code (test)
+      value: Call a code
       objectReference: {fileID: 0}
     - target: {fileID: 3177897330776656896, guid: c51fcb6937ce67346a9edc86b1e0c5d5, type: 3}
       propertyPath: m_Text

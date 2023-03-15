@@ -20,9 +20,6 @@ public class SuctionTrach : MonoBehaviour
     public GameObject UnableL;
     public GameObject UnableR;
 
-    public GameObject MaskAdded;
-    public GameObject IntubationAdded;
-
     public GameObject CameraMask;
     public GameObject CameraIntubation;
 
@@ -47,14 +44,19 @@ public class SuctionTrach : MonoBehaviour
         UnableL.active = false;
         UnableR.active = false;
 
-        MaskAdded.active = false;
-        IntubationAdded.active = false;
-
         CameraIntubation.active = false;
 
         Debug.Log("SuctionTrach started");
 
         camera = GameObject.Find("Main Camera - Mask");
+
+        var videoPlayer = camera.AddComponent<UnityEngine.Video.VideoPlayer>();
+        videoPlayer.playOnAwake = false;
+        videoPlayer.renderMode = UnityEngine.Video.VideoRenderMode.CameraNearPlane;
+        videoPlayer.url = "Assets/Prefabs/TeenF_Success_Suction.mp4";
+        videoPlayer.isLooping = false;
+        videoPlayer.loopPointReached += EndReached;
+        videoPlayer.Play();
 
     }
 
@@ -71,14 +73,6 @@ public class SuctionTrach : MonoBehaviour
 
     public void ableContinue(string click)
     {   
-
-        var videoPlayer = camera.AddComponent<UnityEngine.Video.VideoPlayer>();
-        videoPlayer.playOnAwake = false;
-        videoPlayer.renderMode = UnityEngine.Video.VideoRenderMode.CameraNearPlane;
-        videoPlayer.url = "Assets/Prefabs/TeenF_Success_Suction.mp4";
-        videoPlayer.isLooping = false;
-        videoPlayer.loopPointReached += EndReached;
-        videoPlayer.Play();
         if (click == "Continue")
         {
             GlobalVarStorage.ST_Able = true;
@@ -91,7 +85,7 @@ public class SuctionTrach : MonoBehaviour
         }
     }
 
-
+    // count is used to track if the user has clicked both buttons on the unable to suction scenario before proceeding to trach replacement.
     public void unable(string click)
     {
         var videoPlayer = camera.AddComponent<UnityEngine.Video.VideoPlayer>();
@@ -103,39 +97,33 @@ public class SuctionTrach : MonoBehaviour
         videoPlayer.Play();
         if (click == "Mask Patient")
         {
-            if(IntubationAdded.active == true)
-            {
-                IntubationAdded.active = false;
-                MaskAdded.active = true;
-            }
-            else
-            {
-                MaskAdded.active = true;
-            }
-            UnableMask.active = false;
             count = count + 1;
+            if(count == 1){
+                UnableL.GetComponentInChildren<TMPro.TextMeshProUGUI>().text = "Able to inflate chest.";
+                UnableMask.active = false;
+            }
+            else if(count == 2){
+                UnableL.GetComponentInChildren<TMPro.TextMeshProUGUI>().text = "Able to inflate chest. Would you like to continue?";
+                UnableMask.GetComponentInChildren<Text>().text = "Continue";
+            }
+            else{
+                SceneManager.LoadScene("Patient Deteriorating");
+            }
             Debug.Log("Mask Clicked");
         }
 
         if (click == "Intubation")
         {
-            if(MaskAdded.active == true)
-            {
-                MaskAdded.active = false;
-                IntubationAdded.active = true;
+            count = count + 1;
+            if(count == 2){
+                UnableL.GetComponentInChildren<TMPro.TextMeshProUGUI>().text = "Able to intubate. Would you like to continue?";
+                UnableMask.active = true;
             }
-            else
-            {
-                IntubationAdded.active = true;
+            else{
+                UnableL.GetComponentInChildren<TMPro.TextMeshProUGUI>().text = "Able to intubate.";
             }
             UnableIntubation.active = false;
-            count = count + 1;
             Debug.Log("Intubation Clicked");
-        }
-
-        if(count == 2)
-        {
-            SceneManager.LoadScene("Patient Deteriorating");
         }
     }
 

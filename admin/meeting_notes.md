@@ -914,3 +914,15 @@ Lighting issues.
 Weird Purple Box
 
 Need a continue button.
+
+========================================================================
+
+**20th Team Meeting - 3/22/23**
+
+Names of Attendants
+* Carol Chang
+* Davis Robert Cohen
+
+Davis is going to do more bug hunting.
+
+

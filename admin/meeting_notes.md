@@ -925,4 +925,18 @@ Names of Attendants
 
 Davis is going to do more bug hunting.
 
+========================================================================
 
+**21st Team Meeting - 4/5/23**
+
+Names of Attendants
+* Pierce Angeloff
+* Carol Chang
+* Davis Robert Cohen
+* Bradley Sides
+
+Bradley: just got back, going to get some bug fixing. Maybe add the buttons.
+
+Pierce: just got back, trachman
+
+Davis: Poster resources and bug hunting.

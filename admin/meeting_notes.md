@@ -940,3 +940,16 @@ Bradley: just got back, going to get some bug fixing. Maybe add the buttons.
 Pierce: just got back, trachman
 
 Davis: Poster resources and bug hunting.
+
+
+========================================================================
+
+**22nd Team Meeting/10th mentor meeting - 4/5/23**
+
+Names of Attendants
+* Pierce Angeloff
+* Carol Chang
+* Davis Robert Cohen
+* Aiden Coley
+
+We've got the poster done

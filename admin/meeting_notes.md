@@ -953,3 +953,19 @@ Names of Attendants
 * Aiden Coley
 
 We've got the poster done
+
+========================================================================
+
+**23rd Team Meeting/10th mentor meeting - 4/19/23**
+
+Names of Attendants
+* Luke Pan
+* Pierce Angeloff
+* Carol Chang
+* Davis Robert Cohen
+
+Davis, Pierce, and Carol are going to bring their laptops for the showcase.
+
+Davis and Pierce should meet this week for a bit of a knowledge transfer.
+
+

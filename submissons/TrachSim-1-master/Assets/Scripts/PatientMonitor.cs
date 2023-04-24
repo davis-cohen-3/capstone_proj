@@ -58,6 +58,9 @@ public class PatientMonitor : MonoBehaviour
             case "Replace Trach":
                 mildDistress();
                 return;
+            case "Inspect Trach":
+                mildDistress();
+                return;
             default:
                 normal();
                 return;

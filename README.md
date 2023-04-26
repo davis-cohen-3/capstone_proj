@@ -1,4 +1,4 @@
 # capstone_proj. 
 
 
-Add overview notes on project here 
+This is a trach sim project simulator.

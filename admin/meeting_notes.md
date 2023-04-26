@@ -956,7 +956,7 @@ We've got the poster done
 
 ========================================================================
 
-**23rd Team Meeting/10th mentor meeting - 4/19/23**
+**23rd Team Meeting - 4/19/23**
 
 Names of Attendants
 * Luke Pan
@@ -968,4 +968,29 @@ Davis, Pierce, and Carol are going to bring their laptops for the showcase.
 
 Davis and Pierce should meet this week for a bit of a knowledge transfer.
 
+========================================================================
 
+**24th Team Meeting - 4/26/23**
+
+Names of Attendants
+* Pierce Angeloff
+* Carol Chang
+* Bradley Sides
+* Aiden Colley
+
+Pierce: Fixed missing monitor setting, nothing that is working with rTrachMan
+
+Team Coordinated on next steps
+
+========================================================================
+
+**11th Mentor Meeting - 4/26/23**
+
+Names of Attendants
+* Pierce Angeloff
+* Carol Chang
+* Bradley Sides
+* Luke Pan
+* Aiden Colley
+
+EVERYONE NEEDS TO BE THERE FROM 1-5pm

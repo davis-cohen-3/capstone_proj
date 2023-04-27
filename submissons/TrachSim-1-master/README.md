@@ -1,6 +1,6 @@
 # TrachSim
 
-Contributors: Will Francis, Jessie Ryce, Tobias Jacobson, Katelyn Singh, Jack Humphrey 
+Contributors: Caroline Chang, Pierce Angelloff, Bradley Sides, Aiden Colley, Davis Cohen, Luke Pan
 
 Project Background: Children’s Hospital Colorado is ranked within the top 10 children’s hospitals in the U.S. by U.S. News and World Report and as a result it’s at the cutting edge in delivering clinical care, education, and research in the pediatric healthcare arena. The goal of this project was to create a computer graphics based simulation to improve the ability of healthcare professionals (nurses, respiratory therapists, and physicians) to manage these emergencies.
 
